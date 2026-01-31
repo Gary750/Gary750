@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Gary750/Gary750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Buenas Soy Angel
 
-Here are some ideas to get you started:
+- Aun soy un estudiante en la ingenieria en desarrollo y gestion de software
+- Me encanta el desarrollo de aplicaciones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🛠 Skills
+ Se algo de Python, Flutter. Java y C# 
+
+
+## 🚀 About Me
+Me desempeño en el desarrollo multiplataforma (Mobil y web)
+
+
